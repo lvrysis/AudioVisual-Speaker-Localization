@@ -1,4 +1,4 @@
-# AudioVisual-Speaker-Localization
+# AudioVisual Speaker Localization
 A framework for localizing speakers on video streams by means of deep learning topologies.
 
 This repo includes implementations for processing video streams, localizing faces, mouths and implements a fast visual voice activity detector. Please visit the following repos for implementing the ETi voice activity detctor and the visual voice activity detctor by Conv2DLSTM:  
