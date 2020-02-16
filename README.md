@@ -8,4 +8,4 @@ http://github.com/lvrysis/Audio-Feature-Integration
 The implementations are powered by Python.
 
 You can experiment using the M3C Speaker Localization datasets:  
-http://research.playcompass.com/files/M3C-Speaker-Localization-v1.zip
+http://research.playcompass.com/files/M3C-Speaker-Localization-1.zip
